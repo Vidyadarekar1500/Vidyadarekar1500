@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Vidya Darekar</h1>
+<p align="center">
+  🚀 Front-End Developer | UI/UX Enthusiast | Tech Explorer<br/>
+  📍 Maharashtra, India  
+</p>
 
-<!--
-**Vidyadarekar1500/Vidyadarekar1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End**: React.js, Material UI, SASS, Redux  
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3, Python  
+- **Testing**: Jest  
+- **Tools**: Git, GitHub, Bitbucket, Storybook, Jenkins, VS Code, JIRA, SonarQube  
+- **Cloud**: Google Cloud Platform  
+
+---
+
+### 🌱 Currently Exploring
+
+- NodeJS, GraphQL, PostgreSQL, TypeORM,  
+- Web Performance Optimization  
+- Advanced TypeScript Patterns  
+
+---
+
+### 📫 Connect with me
+
+- 📧 darekarvidya1500@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vidya-darekar-002495195)  
+
+---
+
+### 📊 GitHub Stats
+
+![Vidya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vidyadarekar1500&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidyadarekar1500&layout=compact&theme=radical)
