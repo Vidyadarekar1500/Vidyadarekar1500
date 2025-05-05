@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack
 
-- **Front-End**: React.js, Material UI, Tailwind SASS, Redux  
+- **Front-End**: React.js, Material UI, Tailwind CSS, SASS, Redux  
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3, Python  
 - **Testing**: Jest  
 - **Tools**: Git, GitHub, Bitbucket, Storybook, Jenkins, VS Code, JIRA, SonarQube  
